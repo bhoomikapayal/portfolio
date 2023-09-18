@@ -3,7 +3,7 @@ Responsive Portfolio Website Patrick
 
 Responsive Portfolio Website Patrick.
 
-Responsive Portfolio Website Design Using HTML and CSS.
+Responsive Portfolio Website Design Using HTML CSS and js.
 
 Contains animations when scrolling.
 
